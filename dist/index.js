@@ -24959,7 +24959,7 @@ function run() {
     return __awaiter(this, void 0, void 0, function* () {
         const nameToGreet = core.getInput('who-to-greet');
         core.info(`Hello, ${nameToGreet}!`);
-        core.setOutput('greeting', `Hello, ${nameToGreet}!`);
+        core.setOutput('greeting', `Hello, ${nameToGreet}!!`);
     });
 }
 run().catch(error => {
