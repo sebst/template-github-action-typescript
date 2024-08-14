@@ -1,5 +1,5 @@
 {
-  "name": "action-typescript",
+  "name": "template-github-action-typescript",
   "version": "0.0.1",
   "description": "",
   "main": "dist/index.js",
@@ -14,18 +14,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://example.org"
+    "url": "git@github.com:sebst/template-github-action-typescript.git"
   },
   "keywords": [
     "Actions",
-    "GitHub"
+    "GitHub",
+    "Template",
+    "Hello World",
+    "TypeScript"
   ],
-  "author": "Exmple Co.",
+  "author": "Bas Steins",
   "license": "MIT",
   "bugs": {
-    "url": "http://example.org"
+    "url": "https://github.com/sebst/template-github-action-typescript/issues"
   },
-  "homepage": "http://example.org",
+  "homepage": "http://bas.codes",
   "dependencies": {
     "@actions/core": "^1.10.1",
     "@actions/github": "^6.0.0"
