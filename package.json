@@ -1,7 +1,7 @@
 {
   "name": "template-github-action-typescript",
   "version": "0.0.1",
-  "description": "",
+  "description": "Description of template-github-action-typescript",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
@@ -28,7 +28,7 @@
   "bugs": {
     "url": "https://github.com/sebst/template-github-action-typescript/issues"
   },
-  "homepage": "http://bas.codes",
+  "homepage": "https://bas.codes/",
   "dependencies": {
     "@actions/core": "^1.10.1",
     "@actions/github": "^6.0.0"
